@@ -1,2 +1,2 @@
-# curriculo-html-css
-Meu Currículo em HTML e CSS
+#Currículo HTML
+Meu currículo em HTML e CSS com foto.
